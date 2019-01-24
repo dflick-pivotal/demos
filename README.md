@@ -21,7 +21,7 @@ demo: spring cloud service registry, spring boot actuator apps manager integrati
 ## 2017_CloudNativeAppArchWorkshop ([repo](https://github.com/dflick-pivotal/2017_CloudNativeAppArchWorkshop/tree/2018-02-workshop))
 **content:** one day cloud native architecture workshop   
 lab 1 - getting started with spring boot  
-lab 2 - introspection, monitoring, and metrics using spring boot actuator 
+lab 2 - introspection, monitoring, and metrics using spring boot actuator  
 lab 3 - composing cloud native architectures with spring cloud  
 lab 4 - operating cloud native architectures with spring cloud  
 lab 5 - deploying cloud native architectures to cloud foundry  
