@@ -18,11 +18,12 @@
 ## registry-checker-boot-1x ([repo](https://github.com/dflick-pivotal/registry-checker-boot-1x))
 content: spring cloud services service registry example application  
 demo: spring cloud service registry, spring boot actuator apps manager integration 
-## 2017_CloudNativeAppArchWorkshop ([repo](https://github.com/dflick-pivotal/2017_CloudNativeAppArchWorkshop/tree/2018-02-workshop))
+## dev-workshop ([repo](https://github.com/dflick-pivotal/dev-workshop))
 **content:** one day cloud native architecture workshop   
-lab 1 - getting started with spring boot  
-lab 2 - introspection, monitoring, and metrics using spring boot actuator  
-lab 3 - composing cloud native architectures with spring cloud  
-lab 4 - operating cloud native architectures with spring cloud  
-lab 5 - deploying cloud native architectures to cloud foundry  
-lab 6 - getting started with spring cloud stream  
+Lab 1 - Getting Started with Spring Boot
+Lab 2 - Introspection, Monitoring, and Metrics using Spring Boot Actuator
+Lab 3 - Operate the App on Cloud Foundry
+Lab 4 - Composing Cloud Native Architectures with Spring Cloud
+Lab 5 - Operating Cloud Native Architectures with Spring Cloud
+Lab 6 - Deploying Cloud Native Architectures to Cloud Foundry
+Lab 7 - Getting Started with Spring Cloud Stream
