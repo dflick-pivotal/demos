@@ -20,10 +20,10 @@ content: spring cloud services service registry example application
 demo: spring cloud service registry, spring boot actuator apps manager integration 
 ## dev-workshop ([repo](https://github.com/dflick-pivotal/dev-workshop))
 **content:** one day cloud native architecture workshop   
- Lab 1 - Getting Started with Spring Boot 
- Lab 2 - Introspection, Monitoring, and Metrics using Spring Boot Actuator 
- Lab 3 - Operate the App on Cloud Foundry 
- Lab 4 - Composing Cloud Native Architectures with Spring Cloud 
- Lab 5 - Operating Cloud Native Architectures with Spring Cloud 
- Lab 6 - Deploying Cloud Native Architectures to Cloud Foundry 
- Lab 7 - Getting Started with Spring Cloud Stream 
+Lab 1 - Getting Started with Spring Boot  
+Lab 2 - Introspection, Monitoring, and Metrics using Spring Boot Actuator  
+Lab 3 - Operate the App on Cloud Foundry  
+Lab 4 - Composing Cloud Native Architectures with Spring Cloud  
+Lab 5 - Operating Cloud Native Architectures with Spring Cloud  
+Lab 6 - Deploying Cloud Native Architectures to Cloud Foundry  
+Lab 7 - Getting Started with Spring Cloud Stream  
